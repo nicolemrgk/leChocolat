@@ -1,0 +1,19 @@
+{
+  "name": "lechocolat",
+  "version": "1.0.0",
+  "description": "This is a website for Le Chocolat",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "popper.js": "^1.14.6"
+  }
+}
