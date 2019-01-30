@@ -31,3 +31,8 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
+.table .thead-dark th{
+    color:floralwhite;
+    background-color:#6E3F19
+}
+tr:hover {background-color:#dbb08db0!important}
